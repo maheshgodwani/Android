@@ -51,6 +51,7 @@
         android:lines="3"
         android:scrollbars="vertical|horizontal"
         android:gravity="start|top"
+        android:hint="Enter Addresh"
         android:inputType="textMultiLine" />
 
     <AutoCompleteTextView
